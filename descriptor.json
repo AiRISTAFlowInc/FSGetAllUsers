@@ -2,7 +2,7 @@
   "name": "Airista Get Users",
   "type": "flogo:activity",
   "version": "0.0.1",
-  "title": "A1: Get Users",
+  "title": "A2: Get Users",
   "description": "Returns Array of Users",
   "homepage": "https://github.com/AiRISTAFlowInc/FlowActivities/tree/main/GetAllUsers",
   "input": [
